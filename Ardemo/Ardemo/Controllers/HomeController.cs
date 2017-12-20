@@ -15,7 +15,7 @@ namespace Ardemo.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "This is going to go to Jenkins on cloud.";
+            ViewBag.Message = "Jenkins trying";
 
             return View();
         }
